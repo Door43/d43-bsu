@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bsu:home|Door43 (bsu)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bsu|d43-bsu repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bsu/archive/master.zip|d43-bsu.zip]]
+
+**Recent Changes**
+{{changes>ns = bsu}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bsu|Ethnologue data]]
+
